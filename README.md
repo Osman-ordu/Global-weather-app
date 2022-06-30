@@ -1,3 +1,3 @@
 # globalweatherapp
 
-### https://osman-ordu.github.io/guessthenumber/
+### https://osman-ordu.github.io/globalweatherapp/
